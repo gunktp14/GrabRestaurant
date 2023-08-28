@@ -46,14 +46,17 @@ Component
 
 	That below is component list each of component have different expression
 
-- Dashboard 
-  - AddFormModal.js 
-  - Menu.js
-  - Table.js
-- Alert.js 
-- ConfirmPopup.js
-- index.js
-- Logo.js
+```bash
+├── Dashboard
+│   ├── AddFormModal.js 
+│   └── Menu.js
+│   └── Table.js
+├── Alert.js 
+├── ConfirmPopup.js
+├── index.js
+├── Logo.js
+
+```
 
 #Database
 
