@@ -1,7 +1,7 @@
 import dotenv from 'dotenv'
 dotenv.config()
 
-export const HOST = process.env.HOST
+export const HOST = 'localhost'
 export const USER = 'root'
-export const PASSWORD = process.env.PASSWORD
-export const DB = process.env.DB
+export const PASSWORD = ''
+export const DB = 'restaurant_db'
