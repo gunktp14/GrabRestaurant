@@ -1,4 +1,4 @@
-![image](https://github.com/gunktp14/GrabRestaurant/assets/120033691/1e1b452e-0907-4f01-9998-7c1cc07bd42b)#Backend
+#Backend
 
 Route
 
@@ -72,3 +72,28 @@ sequelize
 2. create Schema for each of table you have 
 
 3. export them and implement with other file
+
+#UI Picture 
+
+All Restaurant 
+
+![index](https://github.com/gunktp14/GrabRestaurant/assets/120033691/d5f34fa0-0a12-4210-a496-541f4551810e)
+
+Form add modal 
+
+![add_modal](https://github.com/gunktp14/GrabRestaurant/assets/120033691/12231634-a57c-4504-90fd-f99c359d11c0)
+
+If it's loading
+
+![isLoading](https://github.com/gunktp14/GrabRestaurant/assets/120033691/44e573bd-6e83-4743-a842-158f6a06fab7)
+
+If It have finished
+
+![finished](https://github.com/gunktp14/GrabRestaurant/assets/120033691/ac92d2a2-b493-4078-bc27-acfec12881c3)
+
+Form Edit modal 
+
+![edit_modal](https://github.com/gunktp14/GrabRestaurant/assets/120033691/a3e4a398-9e59-4057-ae30-0f610bd7c9b7)
+
+
+
