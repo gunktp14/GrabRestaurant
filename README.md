@@ -1,4 +1,4 @@
-#Backend
+![image](https://github.com/gunktp14/GrabRestaurant/assets/120033691/1e1b452e-0907-4f01-9998-7c1cc07bd42b)#Backend
 
 Route
 
@@ -62,6 +62,8 @@ Component
 
 Database used : MySQL 
 **but we implement ORM with our database for easily management
+
+![image](https://github.com/gunktp14/GrabRestaurant/assets/120033691/ecde7cb8-ea2f-4a8e-b48a-9a85ebc1d713)
 
 sequelize 
 
